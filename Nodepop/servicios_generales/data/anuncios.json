@@ -1,0 +1,39 @@
+{
+    "anuncios": [
+    {
+        "nombre": "Audífonos",
+        "venta": true,
+        "precio": 40.50,
+        "foto": "audifonos.png",
+        "tags": [ "lifestyle", "gamer"]
+    },
+    {
+        "nombre": "Bicicleta",
+        "venta": false,
+        "precio": 350.00,
+        "foto": "bike.png",
+        "tags": [ "lifestyle", "work"]
+    },
+    {
+        "nombre": "Móvil",
+        "venta" : true,
+        "precio": 165.00,
+        "foto": "movil.png",
+        "tags": ["work", "lifestyle"]
+    },
+    {
+        "nombre": "Smartwatch",
+        "venta": true,
+        "precio": 129.20,
+        "foto": "smartwatch_FM.png",
+        "tags": ["work", "lifestyle"]
+    },
+    {
+        "nombre": "Teclado",
+        "venta": true,
+        "precio": 46.00,
+        "foto": "teclago.png",
+        "tags": ["work","lifestyle"]
+    }
+    ]
+}
