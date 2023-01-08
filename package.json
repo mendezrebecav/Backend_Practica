@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-backend",
+  "version": "1.0.0",
+  "description": "Proyecto para Keepcoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mendezrebecav/Proyecto-Backend.git"
+  },
+  "author": "Rebeca Méndez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mendezrebecav/Proyecto-Backend/issues"
+  },
+  "homepage": "https://github.com/mendezrebecav/Proyecto-Backend#readme"
+}
